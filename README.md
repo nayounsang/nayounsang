@@ -1,12 +1,15 @@
 # Younsang Na
 ## Maintain
 ### [relation-map](https://github.com/nayounsang/relation-map)
-## Contribute
+> A flexible relational mapping library supporting 1:1 and 1:N
+## Contributions
 ### [tldraw](https://github.com/tldraw/tldraw)
+> whiteboard / infinite canvas SDK
 - [#4479](https://github.com/tldraw/tldraw/pull/4479)
 - [#4534](https://github.com/tldraw/tldraw/pull/4534)
 - [#4732](https://github.com/tldraw/tldraw/pull/4732)
 ### [socket.io](https://github.com/socketio/socket.io)
+> Realtime application framework (Node.JS server)
 - [#5188](https://github.com/socketio/socket.io/pull/5188)
 <!--
 **nayounsang/nayounsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
