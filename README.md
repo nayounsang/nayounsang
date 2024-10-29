@@ -1,4 +1,9 @@
 # Younsang Na
+## Contact
+> Email
+- nayounsang722@gmail.com
+> Discord
+- nayounsang
 ## Maintain
 ### [relation-map](https://github.com/nayounsang/relation-map)
 > A flexible relational mapping library supporting 1:1 and 1:N
