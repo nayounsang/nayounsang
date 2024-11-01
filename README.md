@@ -1,12 +1,20 @@
 # Younsang Na
+## Profile
+> Birth
+- 2000.07.22
+> Nationality
+- Korea
+
 ## Contact
 > Email
 - nayounsang722@gmail.com
 > Discord
 - nayounsang
+
 ## Maintain
 ### [relation-map](https://github.com/nayounsang/relation-map)
 > A flexible relational mapping library supporting 1:1 and 1:N
+
 ## Contributions
 ### [tldraw](https://github.com/tldraw/tldraw)
 > whiteboard / infinite canvas SDK
