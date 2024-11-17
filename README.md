@@ -24,6 +24,10 @@
 ### [socket.io](https://github.com/socketio/socket.io)
 > Realtime application framework (Node.JS server)
 - [#5188](https://github.com/socketio/socket.io/pull/5188)
+### [bezier-react](https://github.com/channel-io/bezier-react)
+> React components library that implements Bezier design system.
+- [#2468](https://github.com/channel-io/bezier-react/pull/2468)
+- [#2488](https://github.com/channel-io/bezier-react/pull/2488)
 <!--
 **nayounsang/nayounsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
