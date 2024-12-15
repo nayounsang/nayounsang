@@ -4,6 +4,11 @@
 - 2000.07.22
 > Nationality
 - Korea
+> Working at
+
+| Company         | Position                 | Period    |
+|---------------|----------------------|------------|
+| [**Deepsales**](https://deepsales.com) | Frontend Engineer Intern | 2024.12 ~ 현재 |
 
 ## Contact
 > Email
