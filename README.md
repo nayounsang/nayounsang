@@ -4,11 +4,12 @@
 - 2000.07.22
 > Nationality
 - Korea
-> Working at
+> Affiliation
 
-| Company         | Position                 | Period    |
+| Organization         | Role                 | Duration    |
 |---------------|----------------------|------------|
-| [**Deepsales**](https://deepsales.com) | Frontend Engineer Intern | 2024.12 ~ 현재 |
+| [**SW Maestro**](https://www.swmaestro.org/sw/main/main.do) | Mentee, Team leader | 2024.04 ~ 2024.11 |
+| [**Deepsales**](https://deepsales.com) | Frontend Engineer Intern | 2024.12 ~ current |
 
 ## Contact
 > Email
