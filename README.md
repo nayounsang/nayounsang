@@ -20,6 +20,8 @@
 ## Maintain
 ### [relation-map](https://github.com/nayounsang/relation-map)
 > A flexible relational mapping library supporting 1:1 and 1:N
+### [msw-dev-tool](https://github.com/nayounsang/msw-dev-tool)
+> Dev tool to control mock logic, modify responses, and monitor API calls.
 
 ## Contributions
 ### [tldraw](https://github.com/tldraw/tldraw)
@@ -34,6 +36,11 @@
 > React components library that implements Bezier design system.
 - [#2468](https://github.com/channel-io/bezier-react/pull/2468)
 - [#2488](https://github.com/channel-io/bezier-react/pull/2488)
+
+## Translations
+### [ko.react.dev](https://github.com/reactjs/ko.react.dev)
+> React documentation website in Korean
+- [#1140](https://github.com/reactjs/ko.react.dev/pull/1140)
 <!--
 **nayounsang/nayounsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
