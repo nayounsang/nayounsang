@@ -41,6 +41,7 @@
 ### [ko.react.dev](https://github.com/reactjs/ko.react.dev)
 > React documentation website in Korean
 - [#1140](https://github.com/reactjs/ko.react.dev/pull/1140)
+- [#1144](https://github.com/reactjs/ko.react.dev/pull/1144)
 <!--
 **nayounsang/nayounsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
