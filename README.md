@@ -9,7 +9,7 @@
 | Organization         | Role                 | Duration    |
 |---------------|----------------------|------------|
 | [**SW Maestro**](https://www.swmaestro.org/sw/main/main.do) | Mentee, Team leader | 2024.04 ~ 2024.11 |
-| [**Deepsales**](https://deepsales.com) | Frontend Engineer Intern | 2024.12 ~ current |
+| [**Deepsales**](https://deepsales.com) | Frontend Engineer Intern | 2024.12 ~ 2024.03 |
 
 ## Contact
 > Email
