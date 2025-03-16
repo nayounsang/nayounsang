@@ -36,7 +36,7 @@
 > React components library that implements Bezier design system.
 - [#2468](https://github.com/channel-io/bezier-react/pull/2468) : Ignore roll-up warning triggered by `use client` directive to improve DX.
 - [#2488](https://github.com/channel-io/bezier-react/pull/2488) : Fix runtime error at `Slider`.
-
+- [#2603](https://github.com/channel-io/bezier-react/pull/2603) : Add `truncated` props to handle long text in `Badge`.
 ## Translations
 ### [ko.react.dev](https://github.com/reactjs/ko.react.dev)
 > React documentation website in Korean
