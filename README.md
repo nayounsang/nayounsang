@@ -1,10 +1,17 @@
 # Younsang Na
 ## Profile
-> Birth
-- 2000.07.22
-> Nationality
-- Korea
-> Affiliation
+<table>
+  <tr>
+    <td>Birth</td>
+    <td>2000.07.22</td>
+  </tr>
+  <tr>
+    <td>Nationality</td>
+    <td>Korea</td>
+  </tr>
+</table>
+
+## Experience
 
 | Organization         | Role                 | Duration    |
 |---------------|----------------------|------------|
@@ -12,10 +19,16 @@
 | [**Deepsales**](https://deepsales.com) | Frontend Engineer Intern | 2024.12 ~ 2024.03 |
 
 ## Contact
-> Email
-- nayounsang722@gmail.com
-> Discord
-- nayounsang
+<table>
+  <tr>
+    <td>Email</td>
+    <td>nayounsang722@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Discord</td>
+    <td>nayounsang</td>
+  </tr>
+</table>
 
 ## Maintain
 ### [relation-map](https://github.com/nayounsang/relation-map)
