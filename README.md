@@ -37,11 +37,12 @@
 - [#2468](https://github.com/channel-io/bezier-react/pull/2468) : Ignore roll-up warning triggered by `use client` directive to improve DX.
 - [#2488](https://github.com/channel-io/bezier-react/pull/2488) : Fix runtime error at `Slider`.
 - [#2603](https://github.com/channel-io/bezier-react/pull/2603) : Add `truncated` props to handle long text in `Badge`.
-## Translations
 ### [ko.react.dev](https://github.com/reactjs/ko.react.dev)
 > React documentation website in Korean
 - [#1140](https://github.com/reactjs/ko.react.dev/pull/1140) : Translated the untranslated part about `ref` and fixed the bug where nothing would appear in the console UI.
 - [#1144](https://github.com/reactjs/ko.react.dev/pull/1144) : Translated components commonly used in server components.
+- [#1159](https://github.com/reactjs/ko.react.dev/pull/1159) : Add `need translation` issue template common issue type without template. 
+
 <!--
 **nayounsang/nayounsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
