@@ -42,6 +42,7 @@
 - [#4479](https://github.com/tldraw/tldraw/pull/4479) : I am responsible for Korean i18n in the tldraw SDK.
 - [#4534](https://github.com/tldraw/tldraw/pull/4534) : I implemented an example where developers can set options directly and check the results when export the picture as an image.
 - [#4732](https://github.com/tldraw/tldraw/pull/4732) : Type safety is improved in the `let` variable.
+- [#6035](https://github.com/tldraw/tldraw/pull/6035) : Writing a script that only builds the package
 ### [socket.io](https://github.com/socketio/socket.io)
 > Realtime application framework (Node.JS server)
 - [#5188](https://github.com/socketio/socket.io/pull/5188) : Supports autocompletion of some default values ​​by setting the union type.
