@@ -55,7 +55,8 @@
 > React documentation website in Korean
 - [#1140](https://github.com/reactjs/ko.react.dev/pull/1140) : Translated the untranslated part about `ref` and fixed the bug where nothing would appear in the console UI.
 - [#1144](https://github.com/reactjs/ko.react.dev/pull/1144) : Translated components commonly used in server components.
-- [#1159](https://github.com/reactjs/ko.react.dev/pull/1159) : Add `need translation` issue template common issue type without template. 
+- [#1159](https://github.com/reactjs/ko.react.dev/pull/1159) : Add `need translation` issue template common issue type without template.
+- [#1171](https://github.com/reactjs/ko.react.dev/pull/1171) : Improve the policy of stale issues and automate it through github actions
 ### [Radix Primitives](https://github.com/radix-ui/primitives)
 > Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps.
 - [#3510](https://github.com/radix-ui/primitives/pull/3510) : When specifying the type of One-Time Password Field, the input is displayed as pw.
