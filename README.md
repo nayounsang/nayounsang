@@ -60,6 +60,11 @@
 ### [Radix Primitives](https://github.com/radix-ui/primitives)
 > Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps.
 - [#3510](https://github.com/radix-ui/primitives/pull/3510) : When specifying the type of One-Time Password Field, the input is displayed as pw.
+- [#3548](https://github.com/radix-ui/primitives/pull/3548) : Implement OTP disable
+### [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
+> ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
+- [#11273](https://github.com/typescript-eslint/typescript-eslint/pull/11273): switch auto-generated test cases to hand-written in no-base-to-string.test.ts
+- [#11351](https://github.com/typescript-eslint/typescript-eslint/pull/11351): [consistent-generic-constructors] resolve conflict with isolatedDeclarations if enabled in constructor option
 
 <!--
 **nayounsang/nayounsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
