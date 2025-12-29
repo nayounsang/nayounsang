@@ -36,35 +36,68 @@
 ### [msw-dev-tool](https://github.com/nayounsang/msw-dev-tool)
 > Dev tool to control mock logic, modify responses, and monitor API calls.
 
-## Contributions
-### [tldraw](https://github.com/tldraw/tldraw)
-> whiteboard / infinite canvas SDK
-- [#4479](https://github.com/tldraw/tldraw/pull/4479) : I am responsible for Korean i18n in the tldraw SDK.
-- [#4534](https://github.com/tldraw/tldraw/pull/4534) : I implemented an example where developers can set options directly and check the results when export the picture as an image.
-- [#4732](https://github.com/tldraw/tldraw/pull/4732) : Type safety is improved in the `let` variable.
-- [#6035](https://github.com/tldraw/tldraw/pull/6035) : Writing a script that only builds the package
-### [socket.io](https://github.com/socketio/socket.io)
-> Realtime application framework (Node.JS server)
-- [#5188](https://github.com/socketio/socket.io/pull/5188) : Supports autocompletion of some default values ​​by setting the union type.
-### [bezier-react](https://github.com/channel-io/bezier-react)
-> React components library that implements Bezier design system.
-- [#2468](https://github.com/channel-io/bezier-react/pull/2468) : Ignore roll-up warning triggered by `use client` directive to improve DX.
-- [#2488](https://github.com/channel-io/bezier-react/pull/2488) : Fix runtime error at `Slider` story.
-- [#2603](https://github.com/channel-io/bezier-react/pull/2603) : Add `truncated` props to handle long text in `Badge`.
-### [ko.react.dev](https://github.com/reactjs/ko.react.dev)
-> React documentation website in Korean
-- [#1140](https://github.com/reactjs/ko.react.dev/pull/1140) : Translated the untranslated part about `ref` and fixed the bug where nothing would appear in the console UI.
-- [#1144](https://github.com/reactjs/ko.react.dev/pull/1144) : Translated components commonly used in server components.
-- [#1159](https://github.com/reactjs/ko.react.dev/pull/1159) : Add `need translation` issue template common issue type without template.
-- [#1171](https://github.com/reactjs/ko.react.dev/pull/1171) : Improve the policy of stale issues and automate it through github actions
-### [Radix Primitives](https://github.com/radix-ui/primitives)
-> Radix Primitives is an open-source UI component library for building high-quality, accessible design systems and web apps.
-- [#3510](https://github.com/radix-ui/primitives/pull/3510) : When specifying the type of One-Time Password Field, the input is displayed as pw.
-- [#3548](https://github.com/radix-ui/primitives/pull/3548) : Implement OTP disable
-### [typescript-eslint](https://github.com/typescript-eslint/typescript-eslint)
-> ✨ Monorepo for all the tooling which enables ESLint to support TypeScript
-- [#11273](https://github.com/typescript-eslint/typescript-eslint/pull/11273): switch auto-generated test cases to hand-written in no-base-to-string.test.ts
-- [#11351](https://github.com/typescript-eslint/typescript-eslint/pull/11351): [consistent-generic-constructors] resolve conflict with isolatedDeclarations if enabled in constructor option
+## Open Source Contributions
+
+### radix-ui
+
+- https://github.com/radix-ui/primitives/pull/3507
+- https://github.com/radix-ui/primitives/pull/3510
+- https://github.com/radix-ui/primitives/pull/3511
+- https://github.com/radix-ui/primitives/pull/3547
+- https://github.com/radix-ui/primitives/pull/3548
+- https://github.com/radix-ui/primitives/pull/3551
+- https://github.com/radix-ui/primitives/pull/3584
+
+### typescript-eslint
+
+- https://github.com/typescript-eslint/typescript-eslint/pull/11747
+- https://github.com/typescript-eslint/typescript-eslint/pull/11467
+- https://github.com/typescript-eslint/typescript-eslint/pull/11456
+- https://github.com/typescript-eslint/typescript-eslint/pull/11355
+- https://github.com/typescript-eslint/typescript-eslint/pull/11351
+- https://github.com/typescript-eslint/typescript-eslint/pull/11327
+- https://github.com/typescript-eslint/typescript-eslint/pull/11323
+- https://github.com/typescript-eslint/typescript-eslint/pull/11322
+- https://github.com/typescript-eslint/typescript-eslint/pull/11273
+- https://github.com/typescript-eslint/typescript-eslint/pull/11272
+- https://github.com/typescript-eslint/typescript-eslint/pull/11243
+
+
+
+### tldraw
+
+- https://github.com/tldraw/tldraw/pull/4534
+- https://github.com/tldraw/tldraw/pull/6035
+- https://github.com/tldraw/tldraw/pull/6019
+- https://github.com/tldraw/tldraw/pull/5991
+- https://github.com/tldraw/tldraw/pull/4932
+- https://github.com/tldraw/tldraw/pull/4732
+- https://github.com/tldraw/tldraw/pull/4534
+- Multilingual work rights and contributions for Korean
+
+### ko.react.dev
+
+- https://github.com/reactjs/ko.react.dev/pull/1375
+- https://github.com/reactjs/ko.react.dev/pull/1216
+- https://github.com/reactjs/ko.react.dev/pull/1171
+- https://github.com/reactjs/ko.react.dev/pull/1170
+- https://github.com/reactjs/ko.react.dev/pull/1159
+- https://github.com/reactjs/ko.react.dev/pull/1144
+- https://github.com/reactjs/ko.react.dev/pull/1140
+
+### bezier-react
+
+- https://github.com/channel-io/bezier-react/pull/2468
+- https://github.com/channel-io/bezier-react/pull/2488
+- https://github.com/channel-io/bezier-react/pull/2603
+
+### Other contributions 
+
+- Translate [Debugging Teams](https://ita9naiwa.github.io/debuggingteams/) into Korean
+- https://github.com/mantinedev/mantine/pull/8199
+- https://github.com/socketio/socket.io/pull/5188
+
+
 
 <!--
 **nayounsang/nayounsang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
