@@ -1,22 +1,8 @@
 # Younsang Na
-## Profile
-<table>
-  <tr>
-    <td>Birth</td>
-    <td>2000.07.22</td>
-  </tr>
-  <tr>
-    <td>Nationality</td>
-    <td>Korea</td>
-  </tr>
-</table>
-
-## Experience
-
-| Organization         | Role                 | Duration    |
-|---------------|----------------------|------------|
-| [**SW Maestro**](https://www.swmaestro.org/sw/main/main.do) | Mentee, Team leader | 2024.04 ~ 2024.11 |
-| [**Deepsales**](https://deepsales.com) | Frontend Engineer Intern | 2024.12 ~ 2024.03 |
+## Bio
+I am a frontend platform enginner in the `TypeScript` & `React` ecosystem and a former participant of [SW Maestro](https://swmaestro.ai/sw/main/main.do) 15th. I am highly interested in frontend development, open source, and improving DX.
+In the field of frontend engineering, I strive to enhance everyone’s efficiency by thinking not only about “what” to do, but also “how” to do it.
+I enjoy sharing my knowledge, and I also value learning from others.
 
 ## Contact
 <table>
