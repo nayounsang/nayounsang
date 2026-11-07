@@ -24,6 +24,8 @@ I enjoy sharing my knowledge, and I also value learning from others.
 
 ## Open Source Contributions
 
+> Currently, I am primarily active as a collaborator at [airi](https://github.com/moeru-ai/airi): a soul container of AI waifu / virtual characters to bring them into our world.
+
 ### radix-ui
 
 - https://github.com/radix-ui/primitives/pull/3507
