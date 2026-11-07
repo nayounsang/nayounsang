@@ -1,8 +1,7 @@
 # Younsang Na
 ## Bio
-I am a frontend platform enginner in the `TypeScript` & `React` ecosystem and a former participant of [SW Maestro](https://swmaestro.ai/sw/main/main.do) 15th. I am highly interested in frontend development, open source, and improving DX.
-In the field of frontend engineering, I strive to enhance everyone’s efficiency by thinking not only about “what” to do, but also “how” to do it.
-I enjoy sharing my knowledge, and I also value learning from others.
+I am a frontend enginner in the `TypeScript` & `React` ecosystem and a former participant of [SW Maestro](https://swmaestro.ai/sw/main/main.do) 15th. I am highly interested in frontend development, open source, and improving DX.
+I strive to enhance everyone’s efficiency by thinking not only about “what” to do, but also “how” to do it.
 
 ## Contact
 <table>
